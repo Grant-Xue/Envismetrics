@@ -45,7 +45,7 @@ Envismetrics is an innovative, open-source, and cross-platform Python-based soft
 
 # Summary
 
-Accurate determination of kinetic electrochemical parameters and thermodynamic constants is vital for predicting and optimizing the performance of redox reactions in various applications [@SANECKI2003109, @wang2020redox, @XU20106366]. These kinetic parameters can also be used in simulations to understand the mechanisms of the reactions [@svir:hal-02368461, @C9CP05527D]. However, many of these parameters are not widely available in existing literature or online databases and often vary depending on experimental conditions.
+Accurate determination of kinetic electrochemical parameters and thermodynamic constants is vital for predicting and optimizing the performance of redox reactions in various applications [@SANECKI2003109, @wang2020redox, @XU20106366]. These kinetic parameters can also be used in simulations to understand the mechanisms of the reactions [ @C9CP05527D]. However, many of these parameters are not widely available in existing literature or online databases and often vary depending on experimental conditions.
 
 Cyclic voltammetry (CV), hydrodynamic voltammetry (HDV), and step methods such as chronoamperometry (CA) are widely used experimental techniques to obtain kinetic parameters [@bard2022electrochemical]. These experiments enable the determination of key kinetic parameters through various analyses:
 
